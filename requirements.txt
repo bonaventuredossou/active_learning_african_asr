@@ -11,6 +11,6 @@ speechbrain==0.5.13
 torch>=2.2.0
 torchaudio==0.8.0a0+e4e171a
 tqdm==4.64.1
-transformers==4.26.0.dev0
+transformers>=4.36.0
 whisper==1.0
 wordcloud

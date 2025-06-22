@@ -1,4 +1,4 @@
-#### [Advancing African-Accented Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable ASR Models - ACL SRW 2025](https://arxiv.org/abs/2306.02105)
+#### [Advancing African-Accented Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable ASR Models - ACL SRW 2025](https://openreview.net/forum?id=8XUxIABcBt)
 
 ### How to Access the Data
 

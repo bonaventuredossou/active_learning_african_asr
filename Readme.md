@@ -1,5 +1,18 @@
 #### [Advancing African-Accented Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable ASR Models - ACL SRW 2025](https://openreview.net/forum?id=8XUxIABcBt)
 
+Please cite the following if you use this work:
+
+```
+@inproceedings{
+dossou2025advancing,
+title={Advancing African-Accented English Speech Recognition: Epistemic Uncertainty-Driven Data Selection for Generalizable {ASR} Models},
+author={Bonaventure F. P. Dossou},
+booktitle={ACL 2025 Student Research Workshop},
+year={2025},
+url={https://openreview.net/forum?id=8XUxIABcBt}
+}
+```
+
 ### How to Access the Data
 
 Train and dev sets have been uploaded to an s3 bucket for public access.
